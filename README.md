@@ -1,3 +1,3 @@
-# Hotel-review-sentiment-analysis-in-python
+# Hotel-review-sentiment-analysis 
 
  this project is about sentiment analysis of hotel reviews in python.
